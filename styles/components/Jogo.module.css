@@ -1,0 +1,17 @@
+.container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.container h1{
+    margin: 0px;
+    
+}
+  
+.canvas {
+    background-color: black;
+    border: 2px solid white;
+}
+

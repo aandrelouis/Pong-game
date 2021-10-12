@@ -1,3 +1,11 @@
+![foto1](https://github.com/aandrelouis/Pong-game/blob/main/imgs/foto1.jpeg)
+
+![foto2](https://github.com/aandrelouis/Pong-game/blob/main/imgs/foto2.jpeg)
+
+![foto3](https://github.com/aandrelouis/Pong-game/blob/main/imgs/foto3.jpeg)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
